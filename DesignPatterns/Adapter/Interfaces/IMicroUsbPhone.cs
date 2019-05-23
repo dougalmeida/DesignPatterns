@@ -4,6 +4,5 @@
     {
         void Recharge();
         void UseMicroUsbPhone();
-
     }
 }
